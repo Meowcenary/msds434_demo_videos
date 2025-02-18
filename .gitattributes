@@ -1,2 +1,10 @@
+week_3_gcp_app_deployment.mp4 filter=lfs diff=lfs merge=lfs -text
+week_4_aws_redshift_data_ingest.mp4 filter=lfs diff=lfs merge=lfs -text
+week_4_gcp_big_query_data_ingest.mp4 filter=lfs diff=lfs merge=lfs -text
+week_1_aws_instance_creation.mp4 filter=lfs diff=lfs merge=lfs -text
+week_1_google_cloud_instance_creation.mp4 filter=lfs diff=lfs merge=lfs -text
+week_2_aws_git.mp4 filter=lfs diff=lfs merge=lfs -text
+week_2_gcp_git.mp4 filter=lfs diff=lfs merge=lfs -text
+week_3_aws_elastic_beanstalk.mp4 filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
